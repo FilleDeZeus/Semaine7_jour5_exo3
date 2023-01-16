@@ -4,7 +4,7 @@ console.log(div);
 
 // EXERCICE 2
 let div1 = document.querySelectorAll("#content");
-console.log(div);
+console.log(div1);
 
 // EXERCICE 3
 let li = document.querySelector(".important");
